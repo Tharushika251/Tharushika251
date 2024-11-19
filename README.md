@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **flutter**
 
-- 👯 I’m looking to collaborate on **flutter**
+- 👯 I’m looking to collaborate on **.Net**
 
 - 💬 Ask me about **java**
 
