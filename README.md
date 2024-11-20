@@ -1,6 +1,6 @@
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
 <h1 align="center">Hi 👋, I'm Tharushika Rukshani</h1>
-<h3 align="center"> Turning ideas into code and dreams into reality 🌟💻</h3>
+<h3 align="center"> Turning ideas into code and dreams into reality </h3>
 
 <table align="center">
 <tr border="none">
